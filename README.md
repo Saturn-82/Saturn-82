@@ -21,6 +21,8 @@ Planejo integrar:Usando minha atual situação como inspiração, estou desenvol
 - Cronograma flexível
 - E futuramente, uma comunidade de apoio
 
+🛠️ Tecnologia inicial: Python — linguagem que estou estudando atualmente. O projeto será aprimorado ao longo do tempo, com foco em acessibilidade mobile, já que sua proposta principal é ser uma ferramenta prática e pessoal para o dia a dia do usuário.
+
 ---
 
 ### 🎓 Formação
