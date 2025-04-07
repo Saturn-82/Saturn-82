@@ -13,8 +13,9 @@ Estou em processo de transição de carreira para a área de **tecnologia**. Atu
 ---
 
 ### 🚀 Projetos em andamento
-- **Organizador de Estudos - Estude 1%**: Inspirado na minha jornada, estou desenvolvendo um sistema completo de organização de estudos e gerenciamento de tempo, com foco em personalização e produtividade. Pensado para estudantes e pessoas que desejam uma rotina com propósito — sem esquecer do descanso e autocuidado.
-Planejo integrar:
+**Organizador de Estudos - Estude 1%**: Inspirado na minha jornada, estou desenvolvendo um sistema completo de organização de estudos e gerenciamento de tempo, com foco em personalização e produtividade. Pensado para estudantes e pessoas que desejam uma rotina com propósito — sem esquecer do descanso e autocuidado.
+
+Planejo Integrar
 - Notificações
 - Recompensas por capítulos
 - Análise de desempenho
