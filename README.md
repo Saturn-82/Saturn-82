@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Oi, eu sou a Laís (apelido Saturno).
 
-<!--
-**Saturn-82/Saturn-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em processo de transição de carreira para a área de **tecnologia**. Atualmente curso Engenharia de Software (1º período) e Processos Gerenciais (3º período).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Habilidades
+- Linguagens: **Python (básico)**,
+- Ferramentas: **Power BI (intermediário)**, **Excel (intermediário)**
+- Banco de dados e modelagem de sistemas (básico)
+- Noções de metodologias ágeis e gestão de projetos
+
+---
+
+### 🚀 Projetos em andamento
+- **Organizador de Estudos - Estude 1%**: Inspirado na minha jornada, estou desenvolvendo um sistema completo de organização de estudos e gerenciamento de tempo, com foco em personalização e produtividade. Pensado para estudantes e pessoas que desejam uma rotina com propósito — sem esquecer do descanso e autocuidado.
+Planejo integrar:Usando minha atual situação como inspiração, estou desenvolvento um sistema completo de gerenciamento de tempo e planejamento de estudos com foco em personalização e produtividade, pensado para estudantes e pessoas que buscam rotina com propósito. Não se esquecendo de relaxar e cuidar de si mesmo no processo.
+- Notificações
+- Recompensas por capítulos
+- Análise de desempenho
+- Cronograma flexível
+- E futuramente, uma comunidade de apoio
+
+---
+
+### 🎓 Formação
+- 🎓 **Engenharia de Software** – UNIFAVIP Wyden (Cursando)
+- 🎓 **Processos Gerenciais** – Newton Paiva Wyden (Cursando)
+- 💼 Experiência em ambiente corporativo com foco em **estruturação de processos**, **organização documental**, e **suporte estratégico**.
+
+---
+
+### 💬 Sobre mim
+Sou apaixonada por **livros, jogos e astronomia** (mesmo sabendo pouco sobre o céu lá fora 🌌).
+Encontro tempo para a leitura no dia a dia, mesmo com a rotina corrida.
+Adoro aprender, resolver problemas e transformar ideias em soluções. Tenho facilidade para trabalhar em equipe e me adaptar a mudanças.
+Busco sempre alinhar tecnologia, organização e propósito, com foco em eficiência e evolução contínua.
+
+---
+
+### 📫 Contato
+- ✉️ laisalves.rocha@gmail.com  
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-alves-rocha-802690217/)  
+- 💡 [Portfólio em construção](https://github.com/Saturn-82)
+
+---
+
+> “Às pessoas que olham para as estrelas e desejam… ✨
+ ✨ Às estrelas que ouvem e aos sonhos que são atendidos. - Sarah J. Maas.” 🚀  
