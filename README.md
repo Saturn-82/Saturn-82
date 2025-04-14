@@ -42,9 +42,9 @@ Busco sempre alinhar tecnologia, organização e propósito, com foco em eficiê
 ---
 
 ### 📫 Contato
-- ✉️ laisalves.rocha@gmail.com  
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/la%C3%ADs-alves-rocha-802690217/)  
-- 💡 [Portfólio em construção](https://github.com/Saturn-82)
+- ✉️ lais@saturnodev.com.br (em construção)
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/lais-alves-rocha-802690217) 
+- 💡 [Portfólio saturnodev.com.br (em construção)
 
 ---
 
