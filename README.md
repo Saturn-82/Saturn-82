@@ -7,7 +7,7 @@ Estou em processo de transição de carreira para a área de **tecnologia**. Atu
 ### 💻 Tecnologias e Habilidades
 - Linguagens: **Python (básico)**,
 - Ferramentas: **Power BI (intermediário)**, **Excel (intermediário)**
-- Banco de dados e modelagem de sistemas (básico)
+- Banco de dados e modelagem de sistemas **(básico)**
 - Noções de metodologias ágeis e gestão de projetos
 
 ---
@@ -43,8 +43,8 @@ Busco sempre alinhar tecnologia, organização e propósito, com foco em eficiê
 
 ### 📫 Contato
 - ✉️ lais@saturnodev.com.br (em construção)
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/lais-alves-rocha-802690217) 
-- 💡 [Portfólio saturnodev.com.br (em construção)
+- 🌐 [Meu LinkedIn] https://www.linkedin.com/in/lais-alves-rocha-802690217 
+- 💡 [Portfólio] **saturnodev.com.br** (em construção)
 
 ---
 
