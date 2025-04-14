@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou a Laís (apelido Saturno).
 
-Estou em processo de transição de carreira para a área de **tecnologia**. Atualmente curso Engenharia de Software (1º período) e Processos Gerenciais (3º período).
+Comecei minha trajetória profissional na área da saúde (Odontologia), onde desenvolvi um olhar atento para organização, processos e pessoas. Com o tempo, decidi expandir meus horizontes e iniciei minha formação em Processos Gerenciais, o que mais tarde me impulsionou a mergulhar no mundo da **Engenharia de Software**.
 
 ---
 
