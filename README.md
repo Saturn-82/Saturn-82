@@ -3,11 +3,11 @@
 ---
 
  💻 Python | Power Bi | Excel | 
-👩‍💻 Engenharia de Software
-🎓 Processos Gerenciais
-📚 Leitora assídua
-🎮 Gamer
-🔭🚀 Amante dos astros
+-👩‍💻 Engenharia de Software
+-🎓 Processos Gerenciais
+-📚 Leitora assídua
+-🎮 Gamer
+-🔭🚀 Amante dos astros
 ---
 
 ### 🛠️ Projetos em andamento
@@ -29,4 +29,4 @@ Planejo Integrar:
 
 ---
 > 🌌 “Those who look to the stars and wish
-> To the stars who listen and the dreams that are answered..." - Sarah J. Mass  
+> -To the stars who listen and the dreams that are answered..." - Sarah J. Mass  
