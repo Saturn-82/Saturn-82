@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou a Laís (Nickname Saturno 🪐)
 ---
-### 💻 Python | Power Bi | Excel | 
+ 💻 Python | Power Bi | Excel | 
 👩‍💻 Engenharia de Software
 🎓 Processos Gerenciais
 📚 Leitora assídua
