@@ -1,9 +1,9 @@
 
 <h1>👋 Oi, eu sou a Laís ~ Nickname Saturno🪐</h1>
 
-✉️ lais@saturnodev.com.br
-🌐 https://www.linkedin.com/in/lais-alves-rocha-802690217 
-📜 https://www.saturnodev.com.br (em construção)
+- ✉️ lais@saturnodev.com.br
+- 🌐 https://www.linkedin.com/in/lais-alves-rocha-802690217 
+- 📜 https://www.saturnodev.com.br (em construção)
 
 ---
 
