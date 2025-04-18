@@ -1,9 +1,9 @@
 
 <h1>👋 Oi, eu sou a Laís ~ Nickname Saturno🪐</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/lais-alves-rocha-802690217/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lais-alves-rocha-802690217/)](https://www.linkedin.com/in/lais-alves-rocha-802690217/)
 [![Personal Badge](https://saturnodev.com.br/)](https://saturnodev.com.br/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@satunodev.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@saturnodev.com.br)](mailto:contato@saturnodev.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-contato@satunodev.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=black&link=mailto:contato@saturnodev.com.br)](mailto:contato@saturnodev.com.br)
 
 
 💻 (Python | Power Bi | Excel ) 
@@ -29,7 +29,7 @@ Planejo Integrar:
 ---
 
 ### 📫 Contato
-- ✉️ lais@saturnodev.com.br (em construção)
+- ✉️ lais@saturnodev.com.br
 - 🌐 https://www.linkedin.com/in/lais-alves-rocha-802690217 
 - 📜 https://www.saturnodev.com.br (em construção)
 
