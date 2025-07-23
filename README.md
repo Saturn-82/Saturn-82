@@ -28,5 +28,5 @@ Em transição de carreira, com foco em me tornar uma **desenvolvedora completa*
 
 ---
 > _“Those who look to the stars and wish,_
-> > _To the stars who listen and the dreams that are answered...”_  
+> _To the stars who listen and the dreams that are answered...”_  
 > — Sarah J. Maas 🌌
