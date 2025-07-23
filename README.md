@@ -1,32 +1,32 @@
+<h1>🌌 Laís Alves Rocha — SaturnoDev ~🪐</h1>
 
-<h1>👋 Oi, eu sou a Laís ~ Nickname Saturno🪐</h1>
-
-- ✉️ lais@saturnodev.com.br
-- 🌐 https://www.linkedin.com/in/lais-alves-rocha-802690217 
-- 📜 https://www.saturnodev.com.br (em construção)
-
----
-
-💻 (Python | Power Bi | Excel ) 
-
--👩‍💻 Engenharia de Software
--🎓 Processos Gerenciais
--📚 Leitora assídua
--🎮 Gamer
--🔭🚀 Amante dos astros
+📫 **Email:** lais@saturnodev.com.br  
+🔗 **LinkedIn:** [linkedin.com/in/lais-alves-rocha-802690217](https://www.linkedin.com/in/lais-alves-rocha-802690217)  
+🌐 **Portfólio:** [www.saturnodev.com.br](https://www.saturnodev.com.br) *(em construção)*
 
 ---
 
-### 🛠️ Projetos em andamento
-**Organizador de Estudos - Estude 1%**: Inspirado na minha jornada, estou desenvolvendo um sistema completo de organização de estudos e gerenciamento de tempo, com foco em personalização e produtividade. Pensado para estudantes e pessoas que desejam uma rotina com propósito, sem esquecer ou negligenciar o descanso e autocuidado.
-
-Planejo Integrar:
-- Notificações
-- Recompensas por capítulos
-- Análise de desempenho
-- Cronograma flexível
-- E futuramente, uma comunidade de apoio
+### ✨ Sobre mim  
+Leitora assídua, amante dos astros e gamer nas horas vagas. 💫  
+Atualmente estudante de **Engenharia de Software**, apaixonada por tecnologia, produtividade e organização.  
+Em transição de carreira, com foco em me tornar uma **desenvolvedora completa**.
 
 ---
-> 🌌 “Those who look to the stars and wish
-> - To the stars who listen and the dreams that are answered..." - Sarah J. Mass  
+
+### 🛠️ Áreas de Interesse  
+- Desenvolvimento em **Python**
+- **Análise de Dados** com Power BI e Excel
+- Automação e soluções práticas para o dia a dia
+- UX/UI e organização de sistemas
+
+---
+
+### 💻 Tech Stack
+- **Linguagens:** Python, SQL (básico)
+- **Ferramentas:** Power BI, Excel (Avançado)
+- **Estudando:** HTML, JavaScript, Git/GitHub, Banco de Dados
+
+---
+> _“Those who look to the stars and wish,_
+> > _To the stars who listen and the dreams that are answered...”_  
+> — Sarah J. Maas 🌌
