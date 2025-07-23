@@ -1,4 +1,4 @@
-<h1>🌌 Laís Alves Rocha — SaturnoDev ~🪐</h1>
+<h1> Laís Alves Rocha — SaturnoDev ~🪐</h1>
 
 📫 **Email:** lais@saturnodev.com.br  
 🔗 **LinkedIn:** [linkedin.com/in/lais-alves-rocha-802690217](https://www.linkedin.com/in/lais-alves-rocha-802690217)  
@@ -6,8 +6,8 @@
 
 ---
 
-### ✨ Sobre mim  
-Leitora assídua, amante dos astros e gamer nas horas vagas. 💫  
+###  Sobre mim  
+Leitora assídua, amante dos astros e gamer nas horas vagas.  
 Atualmente estudante de **Engenharia de Software**, apaixonada por tecnologia, produtividade e organização.  
 Em transição de carreira, com foco em me tornar uma **desenvolvedora completa**.
 
