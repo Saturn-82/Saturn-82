@@ -9,7 +9,7 @@ Analista em formação | Automação • Dados • Processos
 🌐 **Portfólio:** [www.saturnodev.com.br](https://www.saturnodev.com.br) *(em construção)*  
 
 ---
-## 🌙 Sobre mim
+## Sobre mim
 Sou uma profissional em **transição de carreira para a área de tecnologia**, com foco em **análise de dados, automação de processos e soluções práticas para o negócio**.
 
 Tenho facilidade em compreender **fluxos, sistemas e processos**, traduzindo dados em informações úteis para tomada de decisão.  
@@ -18,14 +18,14 @@ Atualmente estudo de forma contínua **Python, SQL e fundamentos de desenvolvime
 Fora do código, sou leitora assídua, apaixonada por astronomia e gamer nas horas vagas.
 
 ---
-## 🧭 Áreas de Interesse
+## Áreas de Interesse
 - **Análise de Dados** (Power BI, SQL, Excel)
 - **Automação de Processos** com Python
 - Desenvolvimento de soluções simples, escaláveis e orientadas a negócio
 - Organização, padronização e melhoria contínua
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 **Análise de Dados**
 - Power BI (modelagem, dashboards, indicadores)
 - Excel (avançado)
@@ -41,11 +41,11 @@ Fora do código, sou leitora assídua, apaixonada por astronomia e gamer nas hor
 - Banco de Dados (fundamentos)  
 - Documentação de processos  
 
-📚 **Atualmente estudando:**  
+**Atualmente estudando:**  
 Python • SQL • Java • JavaScript • Git/GitHub • Banco de Dados • Engenharia de Software (fundamentos)
 
 ---
-## ✨ Objetivo
+## Objetivo
 Atuar como **Analista de Dados Júnior / Analista de Tecnologia**, contribuindo com automação, análise e organização de informações, enquanto evoluo tecnicamente para projetos mais complexos envolvendo sistemas e dados.
 
 --- 
